@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSchool", "iSchool\iSchool.csproj", "{9B32DFE4-019A-4B52-A7BF-6CDCB6B46D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ischooltest", "ischooltest\ischooltest.csproj", "{C376F909-3DD0-4359-94A5-29FAC1EF8193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B32DFE4-019A-4B52-A7BF-6CDCB6B46D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B32DFE4-019A-4B52-A7BF-6CDCB6B46D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B32DFE4-019A-4B52-A7BF-6CDCB6B46D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B32DFE4-019A-4B52-A7BF-6CDCB6B46D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C376F909-3DD0-4359-94A5-29FAC1EF8193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C376F909-3DD0-4359-94A5-29FAC1EF8193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C376F909-3DD0-4359-94A5-29FAC1EF8193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C376F909-3DD0-4359-94A5-29FAC1EF8193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

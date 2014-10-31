@@ -1,0 +1,7 @@
+c:\Users\Respect\documents\visual studio 2013\Projects\iSchool\ischooltest\obj\Debug\ischooltest.csprojResolveAssemblyReference.cache
+c:\Users\Respect\documents\visual studio 2013\Projects\iSchool\ischooltest\bin\Debug\ischooltest.dll
+c:\Users\Respect\documents\visual studio 2013\Projects\iSchool\ischooltest\bin\Debug\ischooltest.pdb
+c:\Users\Respect\documents\visual studio 2013\Projects\iSchool\ischooltest\bin\Debug\iSchool.exe
+c:\Users\Respect\documents\visual studio 2013\Projects\iSchool\ischooltest\bin\Debug\iSchool.pdb
+c:\Users\Respect\documents\visual studio 2013\Projects\iSchool\ischooltest\obj\Debug\ischooltest.dll
+c:\Users\Respect\documents\visual studio 2013\Projects\iSchool\ischooltest\obj\Debug\ischooltest.pdb

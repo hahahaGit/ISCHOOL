@@ -1,0 +1,6 @@
+c:\users\respect\documents\visual studio 2013\Projects\iSchool\iSchool\bin\Debug\iSchool.exe.config
+c:\users\respect\documents\visual studio 2013\Projects\iSchool\iSchool\bin\Debug\iSchool.exe
+c:\users\respect\documents\visual studio 2013\Projects\iSchool\iSchool\bin\Debug\iSchool.pdb
+c:\users\respect\documents\visual studio 2013\Projects\iSchool\iSchool\obj\Debug\iSchool.exe
+c:\users\respect\documents\visual studio 2013\Projects\iSchool\iSchool\obj\Debug\iSchool.pdb
+c:\users\respect\documents\visual studio 2013\Projects\iSchool\iSchool\obj\Debug\iSchool.csprojResolveAssemblyReference.cache
