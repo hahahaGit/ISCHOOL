@@ -13,14 +13,14 @@ namespace ischooltest
         [TestInitialize]
         public void BeforeTest()
         {
-            _teacher = new Teacher("s", 50000);
+            _teacher = new Teacher("sam", 50000);
         }
 
         [TestMethod]
         public void TestName()
         {
            
-            Assert.AreEqual("m",_teacher.Name);
+            Assert.AreEqual("sam",_teacher.Name);
             try
             {
                 _teacher.Name =null;
